@@ -1,9 +1,9 @@
-# react-boilerplates
-a collection of some common boiler plates for personal use.
-
+# React Boilerplates
+Here is a collection of some common boiler plates for personal use and learning. 
 
 ## Other boiler plates
 
+- [React boilerplate](https://www.reactboilerplate.com/)
 - [React site](https://reactjs.org/community/starter-kits.html)
 
 
